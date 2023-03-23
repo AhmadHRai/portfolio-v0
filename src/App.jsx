@@ -8,6 +8,8 @@ const Container = styled.div`
   height:100vh;
   color: white;
   background: url('./images/bg.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
   scroll-snap-type: y mandatory;
   scroll-behavior: smooth;
   overflow-y: auto;

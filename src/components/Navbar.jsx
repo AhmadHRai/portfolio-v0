@@ -4,6 +4,7 @@ import styled from 'styled-components'
 const Section = styled.div`
     display: flex;
     justify-content: center;
+    /* position: sticky; */
 `
 
 const Container = styled.div`
@@ -21,7 +22,7 @@ const Links = styled.div`
 `
 
 const Logo = styled.img`
-    height: 50px;
+    height: 40px;
 `
 
 const List = styled.ul`
@@ -63,7 +64,7 @@ const Navbar = () => {
     <Section>
         <Container>
             <Links>
-                <Logo src="./images/logo.png"/>
+                <Logo src="./images/logo.svg"/>
                 <List>
                     <ListItem>Home</ListItem>
                     <ListItem>Studio</ListItem>

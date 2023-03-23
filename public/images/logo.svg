@@ -1,0 +1,80 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    preserveAspectRatio="xMidYMid meet" viewBox="697 360 628 126">
+    <g data-item-type="text" data-item="Business" id="logo__item--business" class="logo__item">
+        <g class="logo__item__inner"
+            transform="translate(811.25 439.69219662491935) scale(1.988480426938851 1.988480426938851) rotate(0 0 0)">
+            <text data-part-id="logo__item--business" dy="0" dominant-baseline="auto" alignment-baseline="auto"
+                font-family="Montserrat" font-size="32px" fill="#C252E1" letter-spacing="0" font-weight="bold"
+                font-style="normal" data-font-family="Montserrat" data-font-weight="bold" data-font-style="normal"
+                data-ttf-url="/builder_assets/fontsttf/font-montserrat-bold-normal.ttf"
+                data-font-filename="montserrat-bold-normal">Ahmad Al Rai</text>
+        </g>
+    </g>
+    <g data-item-type="image" data-item="Image" data-logo-item="" id="logo__item--logo_0" class="logo__item">
+        <g class="logo__item__inner"
+            transform="translate(1192.8094063222193 343.5) scale(1.5880010933082107 1.5880010933082107) rotate(0 0 0)">
+
+            <g>
+                <linearGradient id="logo__item--logo_0__0" gradientUnits="objectBoundingBox" x1="0.5" y1="0" x2="0.5"
+                    y2="1">
+                    <stop offset="0" style="stop-color:#6ECBF5"></stop>
+                    <stop offset="1" style="stop-color:#C252E1"></stop>
+                </linearGradient>
+                <path fill-rule="evenodd" clip-rule="evenodd" fill="url(#logo__item--logo_0__0)"
+                    d="M37.313,12.59l44.278,29.048l-11.364,7.467l-8.689-5.699   l2.701-1.768L19.953,12.59H37.313L37.313,12.59z M56.979,57.793L37.313,70.694H19.953l28.354-18.6L56.979,57.793z"
+                    data-part-id="logo__item--logo_0__0"></path>
+
+                <radialGradient id="SVGID_1_" cx="-279.103" cy="41.2085" r="59.4668"
+                    gradientTransform="matrix(-1 0 0 -1 -208.7959 98.5352)" gradientUnits="userSpaceOnUse">
+                    <stop offset="0" style="stop-color:#FDBC11"></stop>
+                    <stop offset="0.3576" style="stop-color:#EC1C24"></stop>
+                    <stop offset="0.6606" style="stop-color:#BE1E2D"></stop>
+                    <stop offset="1" style="stop-color:#620000"></stop>
+                </radialGradient>
+                <linearGradient id="logo__item--logo_0__1" gradientUnits="objectBoundingBox" x1="0.5" y1="0" x2="0.5"
+                    y2="1">
+                    <stop offset="0" style="stop-color:#6ECBF5"></stop>
+                    <stop offset="1" style="stop-color:#C252E1"></stop>
+                </linearGradient>
+                <path fill-rule="evenodd" clip-rule="evenodd" fill="url(#logo__item--logo_0__1)"
+                    d="M18.408,87.411h17.361l0,0l44.287-29.057L35.769,29.307   H18.408l44.286,29.048L18.408,87.411z"
+                    data-part-id="logo__item--logo_0__1"></path>
+            </g>
+
+        </g>
+    </g>
+    <g data-item-type="image" data-item="Image" data-logo-item="" id="logo__item--logo_0-copy" class="logo__item"
+        data-item-clone="true">
+        <g class="logo__item__inner"
+            transform="translate(830.8094063222193 503.5) scale(-1.5932368498440999 -1.5932368498440999) rotate(0 0 0)">
+
+            <g>
+                <linearGradient id="logo__item--logo_0__0-copy" gradientUnits="objectBoundingBox" x1="0.5" y1="0"
+                    x2="0.5" y2="1">
+                    <stop offset="0" style="stop-color:#6ECBF5"></stop>
+                    <stop offset="1" style="stop-color:#C252E1"></stop>
+                </linearGradient>
+                <path fill-rule="evenodd" clip-rule="evenodd" fill="url(#logo__item--logo_0__0-copy)"
+                    d="M37.313,12.59l44.278,29.048l-11.364,7.467l-8.689-5.699   l2.701-1.768L19.953,12.59H37.313L37.313,12.59z M56.979,57.793L37.313,70.694H19.953l28.354-18.6L56.979,57.793z"
+                    data-part-id="logo__item--logo_0__0-copy"></path>
+
+                <radialGradient id="SVGID_1_" cx="-279.103" cy="41.2085" r="59.4668"
+                    gradientTransform="matrix(-1 0 0 -1 -208.7959 98.5352)" gradientUnits="userSpaceOnUse">
+                    <stop offset="0" style="stop-color:#FDBC11"></stop>
+                    <stop offset="0.3576" style="stop-color:#EC1C24"></stop>
+                    <stop offset="0.6606" style="stop-color:#BE1E2D"></stop>
+                    <stop offset="1" style="stop-color:#620000"></stop>
+                </radialGradient>
+                <linearGradient id="logo__item--logo_0__1-copy" gradientUnits="objectBoundingBox" x1="0.5" y1="0"
+                    x2="0.5" y2="1">
+                    <stop offset="0" style="stop-color:#6ECBF5"></stop>
+                    <stop offset="1" style="stop-color:#C252E1"></stop>
+                </linearGradient>
+                <path fill-rule="evenodd" clip-rule="evenodd" fill="url(#logo__item--logo_0__1-copy)"
+                    d="M18.408,87.411h17.361l0,0l44.287-29.057L35.769,29.307   H18.408l44.286,29.048L18.408,87.411z"
+                    data-part-id="logo__item--logo_0__1-copy"></path>
+            </g>
+
+        </g>
+    </g>
+</svg>
