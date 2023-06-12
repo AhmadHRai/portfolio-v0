@@ -1,11 +1,11 @@
-import React from 'react'
-import styled from 'styled-components'
+import React from "react";
+import styled from "styled-components";
 
 const Section = styled.div`
-  height:100vh;
+  height: 100vh;
   scroll-snap-align: center;
   /* background: url('./images/bg2.jpg'); */ //this is for custom bg each section
-`
+`;
 
 const Container = styled.div`
   width: 100%;
@@ -16,7 +16,7 @@ const Container = styled.div`
 `;
 
 const Left = styled.div`
-  flex:1;
+  flex: 1;
   display: flex;
   align-items: center;
   justify-content: flex-end;
@@ -58,7 +58,7 @@ const Button = styled.button`
 `;
 
 const Right = styled.div`
-  flex:1;
+  flex: 1;
 `;
 
 const Contact = () => {
@@ -67,17 +67,17 @@ const Contact = () => {
       <Container>
         <Left>
           <Form>
-            <Title>Contact Us</Title>
-            <Input placeholder='Name'></Input>
-            <Input placeholder='Email'></Input>
-            <TextArea placeholder='Write your message' rows={10}></TextArea>
+            <Title>Contact Me</Title>
+            <Input placeholder="Name"></Input>
+            <Input placeholder="Email"></Input>
+            <TextArea placeholder="Write your message" rows={10}></TextArea>
             <Button>Send</Button>
           </Form>
         </Left>
         <Right></Right>
       </Container>
     </Section>
-  )
-}
+  );
+};
 
-export default Contact
+export default Contact;

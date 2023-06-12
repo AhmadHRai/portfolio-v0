@@ -26,7 +26,7 @@ const Left = styled.div`
   justify-content: center;
   gap: 20px;
 `;
-  
+
 const Title = styled.h1`
   font-size: 74px;
 `;
@@ -75,13 +75,13 @@ const Img = styled.img`
   bottom: 0;
   left: 0;
   right: 0;
-  margin: auto; // to center the image 
+  margin: auto; // to center the image
   animation: animate 4s infinite ease-in alternate;
   transform: rotate(40deg);
 
   @keyframes animate {
     to {
-      transform: translateY(20px) ;
+      transform: translateY(20px);
     }
   }
 `;
@@ -95,12 +95,13 @@ const Hero = () => {
           <Title>Think. Make. Solve.</Title>
           <WhatWeDo>
             <Line src="./images/line.png" />
-            <Subtitle>What we Do</Subtitle>
+            <Subtitle>What I Do</Subtitle>
           </WhatWeDo>
           <Desc>
-            we enjoy creating delightful, human-centered digital experiences.
+            I enjoy creating delightful, human-centered digital experiences.
           </Desc>
           <Button>Learn More</Button>
+          {/* button = link to projects page */}
         </Left>
         <Right>
           {/* 3d model */}
